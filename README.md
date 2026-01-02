@@ -5,7 +5,7 @@ This project is a SQL-based analytics portfolio built using a Brazilian e-commer
 The goal is to demonstrate how SQL is used to answer real business questions related to revenue, customers, products, sellers, and time-based performance.
 
 All analysis is written in plain `.sql` files and designed to reflect how a data analyst would work in a real business environment.  
-An optional Python notebook is included to reproduce key queries and visualize results using charts.
+A Python notebook is included to reproduce key queries and visualize results using charts.
 
 ---
 
